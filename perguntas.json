@@ -1,20 +1,214 @@
 {
-    "MED": [
-      {
-        "pergunta": "Qual o principal objetivo da educação formal?",
-        "opcoes": ["Entretenimento", "Formação académica", "Desporto", "Comércio"],
-        "correta": 1
-      },
-      {
-        "pergunta": "Qual o ciclo que antecede o ensino secundário?",
-        "opcoes": ["Educação Pré-escolar", "Ensino Primário", "Ensino Superior", "Ensino Técnico"],
-        "correta": 1
-      },
-      {
-        "pergunta": "O Ministério da Educação é responsável por:",
-        "opcoes": ["Política fiscal", "Educação pública", "Transporte marítimo", "Justiça e leis"],
-        "correta": 1
-      }
-    ]
-  }
-  
+  "MED": [
+    {
+      "pergunta": "Qual o principal objetivo da educação formal?",
+      "opcoes": ["Entretenimento", "Formação académica", "Desporto", "Comércio"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual o ciclo que antecede o ensino secundário?",
+      "opcoes": ["Educação Pré-escolar", "Ensino Primário", "Ensino Superior", "Ensino Técnico"],
+      "correta": 1
+    },
+    {
+      "pergunta": "O Ministério da Educação é responsável por:",
+      "opcoes": ["Política fiscal", "Educação pública", "Transporte marítimo", "Justiça e leis"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual é a principal missão do Ministério da Educação?",
+      "opcoes": ["Planejar a defesa nacional", "Gerir a saúde pública", "Gerir a educação no país", "Supervisionar a segurança"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual é a modalidade do ensino que envolve estudos a distância?",
+      "opcoes": ["Ensino Técnico", "Ensino Superior", "Educação a Distância", "Educação Inclusiva"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Quem é responsável pela aprovação do currículo nacional?",
+      "opcoes": ["Ministério da Educação", "Ministério da Saúde", "Administração Pública", "Ministério da Justiça"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O ensino superior em Angola é regulado por qual instituição?",
+      "opcoes": ["Ministério da Juventude", "Ministério dos Transportes", "Ministério da Educação", "Conselho Nacional de Educação"],
+      "correta": 2
+    },
+    {
+      "pergunta": "O que é a avaliação formativa?",
+      "opcoes": ["Avaliação contínua do aluno", "Avaliação do ensino técnico", "Avaliação de recursos materiais", "Avaliação da gestão escolar"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é o principal objetivo das políticas educacionais em Angola?",
+      "opcoes": ["Garantir a alfabetização universal", "Garantir transporte gratuito para os alunos", "Reduzir custos das escolas", "Criar empregos na educação"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual órgão coordena os exames nacionais em Angola?",
+      "opcoes": ["CNEA - Comissão Nacional de Exames de Angola", "MEC - Ministério da Educação e Cultura", "DP - Direção Provincial de Educação", "Instituto Nacional de Avaliação"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é a maior universidade pública de Angola?",
+      "opcoes": ["Universidade Agostinho Neto", "Universidade do Kwanza-Sul", "Universidade Independente", "Universidade Privada de Angola"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em que ano foi implementado o Ensino Secundário em Angola?",
+      "opcoes": ["1990", "1995", "2000", "2005"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual a idade mínima para ingresso no ensino primário?",
+      "opcoes": ["5 anos", "6 anos", "7 anos", "8 anos"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual o tipo de educação voltado para pessoas com necessidades especiais?",
+      "opcoes": ["Educação Inclusiva", "Educação Profissional", "Educação à Distância", "Educação Técnica"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Onde está localizado o Ministério da Educação de Angola?",
+      "opcoes": ["Luanda", "Benguela", "Huambo", "Lobito"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Quem foi o primeiro ministro da Educação de Angola após a independência?",
+      "opcoes": ["Malta Zumbi", "Luís Gomes Sambo", "Marcolino Moco", "Amílcar Cabral"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual é o grau mínimo de escolaridade para um adulto participar de programas de alfabetização?",
+      "opcoes": ["Ensino Secundário", "Ensino Primário", "Ensino Superior", "Ensino Técnico"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual é a principal prioridade da educação infantil em Angola?",
+      "opcoes": ["Desenvolvimento motor", "Desenvolvimento acadêmico", "Desenvolvimento cognitivo", "Desenvolvimento social"],
+      "correta": 2
+    },
+    {
+      "pergunta": "O que caracteriza a educação básica em Angola?",
+      "opcoes": ["Ensino profissionalizante", "Educação para a cidadania", "Alfabetização e letramento", "Ensino superior"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Quantos anos dura o ensino básico em Angola?",
+      "opcoes": ["6 anos", "9 anos", "12 anos", "15 anos"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em que área o Ministério da Educação investe recursos para melhorar a qualidade da educação?",
+      "opcoes": ["Infraestrutura escolar", "Tecnologias da informação", "Relações internacionais", "Mobilidade escolar"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Quem é o atual Ministro da Educação de Angola?",
+      "opcoes": ["Luís Gomes Sambo", "Cândido Pedro", "Maria da Piedade", "Marta Lemos"],
+      "correta": 1
+    },
+    {
+      "pergunta": "A educação de adultos é uma prioridade em Angola devido a:",
+      "opcoes": ["Aumento do analfabetismo", "Desigualdade social", "Alta taxa de desemprego", "Necessidade de inclusão digital"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O sistema de ensino em Angola é composto por quantos níveis principais?",
+      "opcoes": ["4", "5", "6", "3"],
+      "correta": 3
+    },
+    {
+      "pergunta": "Qual é o objetivo das escolas técnicas e profissionais em Angola?",
+      "opcoes": ["Ensinar habilidades práticas para o mercado de trabalho", "Ensinar filosofia e ética", "Proporcionar lazer e entretenimento", "Ensinar apenas ciência básica"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O Ministério da Educação implementa políticas de:",
+      "opcoes": ["Educação formal", "Educação informal", "Educação religiosa", "Educação social"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O que define a Lei de Bases do Sistema de Educação em Angola?",
+      "opcoes": ["A constituição do país", "A gestão pública", "A organização do sistema educacional", "O currículo das escolas privadas"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Quais são os principais desafios da educação em Angola?",
+      "opcoes": ["Falta de escolas, professores e recursos", "Falta de tempo para estudar", "Excesso de professores e salas de aula", "Educação muito avançada para as crianças"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em qual ano foi implementado o sistema de educação de 12 anos em Angola?",
+      "opcoes": ["1997", "2001", "2005", "2010"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Quantas universidades públicas existem atualmente em Angola?",
+      "opcoes": ["4", "6", "8", "10"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual é a principal função do Conselho Nacional de Educação?",
+      "opcoes": ["Planejar políticas educacionais", "Gerir escolas privadas", "Aprovar os currículos das escolas", "Organizar eventos culturais"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é o nome da principal associação de estudantes em Angola?",
+      "opcoes": ["Associação Nacional dos Estudantes Angolanos", "Associação dos Jovens de Angola", "Movimento Estudantil de Angola", "União de Estudantes Angolanos"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em qual ano foi estabelecido o primeiro plano nacional de educação em Angola?",
+      "opcoes": ["1992", "1995", "2000", "2003"],
+      "correta": 1
+    },
+    {
+      "pergunta": "A inclusão digital nas escolas de Angola visa:",
+      "opcoes": ["Ensinamento de tecnologia", "Acessibilidade aos alunos", "Capacitar professores", "Melhorar a comunicação entre escolas e famílias"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O programa de alfabetização em Angola tem como principal objetivo:",
+      "opcoes": ["Reduzir a pobreza", "Aumentar a taxa de alfabetização", "Criar escolas mais eficientes", "Ensinar novas línguas"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual a principal fonte de financiamento para a educação em Angola?",
+      "opcoes": ["Gastos do governo", "Doações internacionais", "Taxas escolares", "Investimentos privados"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O ensino médio em Angola dura quantos anos?",
+      "opcoes": ["1 ano", "3 anos", "5 anos", "7 anos"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual a principal missão do Ministério da Educação?",
+      "opcoes": ["Organizar atividades culturais", "Definir a política educacional do país", "Garantir transporte escolar", "Fomentar atividades desportivas"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em que ano Angola atingiu a maior taxa de alfabetização desde a independência?",
+      "opcoes": ["2000", "2010", "2020", "2022"],
+      "correta": 3
+    },
+    {
+      "pergunta": "Qual o nome do exame de ingresso à universidade em Angola?",
+      "opcoes": ["Exame Nacional de Acesso", "Exame de Admissão", "Exame de Escolaridade", "Exame de Conclusão"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O que caracteriza a educação inclusiva em Angola?",
+      "opcoes": ["Ensinar todos os alunos em um ambiente único", "Segregação de alunos com deficiências", "Ensinar alunos apenas com deficiência auditiva", "Ensinar crianças em idade escolar"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Quem supervisiona a qualidade do ensino em Angola?",
+      "opcoes": ["MEC - Ministério da Educação e Cultura", "CNE - Comissão Nacional de Educação", "Instituto de Ensino Superior", "Direção Provincial de Educação"],
+      "correta": 1
+    }
+  ]
+}
