@@ -1,0 +1,20 @@
+{
+    "MED": [
+      {
+        "pergunta": "Qual o principal objetivo da educação formal?",
+        "opcoes": ["Entretenimento", "Formação académica", "Desporto", "Comércio"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual o ciclo que antecede o ensino secundário?",
+        "opcoes": ["Educação Pré-escolar", "Ensino Primário", "Ensino Superior", "Ensino Técnico"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O Ministério da Educação é responsável por:",
+        "opcoes": ["Política fiscal", "Educação pública", "Transporte marítimo", "Justiça e leis"],
+        "correta": 1
+      }
+    ]
+  }
+  

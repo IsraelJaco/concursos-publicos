@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz de Concursos Públicos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <img src="img/logo.jpg" alt="Logotipo" height="80">
+    <h1>Quiz de Concursos Públicos</h1>
+  </header>
+  <main>
+    <h2>Escolha uma categoria:</h2>
+    <div class="categorias">
+      <button onclick="selecionarCategoria('MED')">Ministério da Educação</button>
+      <button onclick="selecionarCategoria('MINJUD')">Ministério da Juventude e Desportos</button>
+      <button onclick="selecionarCategoria('MINTRANS')">Ministério dos Transportes</button>
+      <button onclick="selecionarCategoria('MAAN')">Memorial Dr. A. A. Neto</button>
+    </div>
+  </main>
+
+  <script>
+    function selecionarCategoria(categoria) {
+      localStorage.setItem("categoria", categoria);
+      window.location.href = "quiz.html";
+    }
+  </script>
+</body>
+</html>
