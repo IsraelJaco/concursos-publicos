@@ -166,49 +166,14 @@
       "correta": 1
     },
     {
-      "pergunta": "A inclusão digital nas escolas de Angola visa:",
-      "opcoes": ["Ensinamento de tecnologia", "Acessibilidade aos alunos", "Capacitar professores", "Melhorar a comunicação entre escolas e famílias"],
-      "correta": 0
-    },
-    {
-      "pergunta": "O programa de alfabetização em Angola tem como principal objetivo:",
-      "opcoes": ["Reduzir a pobreza", "Aumentar a taxa de alfabetização", "Criar escolas mais eficientes", "Ensinar novas línguas"],
+      "pergunta": "A inclusão digital nas escolas de Angola é importante para:",
+      "opcoes": ["Ajudar no desenvolvimento de novas tecnologias", "Melhorar o sistema de ensino", "Ajudar na comunicação internacional", "Reduzir os custos da educação"],
       "correta": 1
     },
     {
-      "pergunta": "Qual a principal fonte de financiamento para a educação em Angola?",
-      "opcoes": ["Gastos do governo", "Doações internacionais", "Taxas escolares", "Investimentos privados"],
-      "correta": 0
-    },
-    {
-      "pergunta": "O ensino médio em Angola dura quantos anos?",
-      "opcoes": ["1 ano", "3 anos", "5 anos", "7 anos"],
-      "correta": 1
-    },
-    {
-      "pergunta": "Qual a principal missão do Ministério da Educação?",
-      "opcoes": ["Organizar atividades culturais", "Definir a política educacional do país", "Garantir transporte escolar", "Fomentar atividades desportivas"],
-      "correta": 1
-    },
-    {
-      "pergunta": "Em que ano Angola atingiu a maior taxa de alfabetização desde a independência?",
-      "opcoes": ["2000", "2010", "2020", "2022"],
-      "correta": 3
-    },
-    {
-      "pergunta": "Qual o nome do exame de ingresso à universidade em Angola?",
-      "opcoes": ["Exame Nacional de Acesso", "Exame de Admissão", "Exame de Escolaridade", "Exame de Conclusão"],
-      "correta": 0
-    },
-    {
-      "pergunta": "O que caracteriza a educação inclusiva em Angola?",
-      "opcoes": ["Ensinar todos os alunos em um ambiente único", "Segregação de alunos com deficiências", "Ensinar alunos apenas com deficiência auditiva", "Ensinar crianças em idade escolar"],
-      "correta": 0
-    },
-    {
-      "pergunta": "Quem supervisiona a qualidade do ensino em Angola?",
-      "opcoes": ["MEC - Ministério da Educação e Cultura", "CNE - Comissão Nacional de Educação", "Instituto de Ensino Superior", "Direção Provincial de Educação"],
-      "correta": 1
+      "pergunta": "Qual a principal característica da Educação Secundária em Angola?",
+      "opcoes": ["Cursos de capacitação para o mercado de trabalho", "Cursos de línguas estrangeiras", "Ensino de ciências naturais e humanas", "Ensino técnico"],
+      "correta": 2
     }
   ]
 }
