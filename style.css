@@ -1,26 +1,62 @@
+/* Estilos gerais */
 body {
-  font-family: sans-serif;
+  font-family: 'Arial', sans-serif;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: #f4f4f9;
   margin: 0;
   padding: 0;
 }
 
+/* Fundo do site */
 header {
-  background-color: #222;
+  background: linear-gradient(to right, #0077b6, #00b4d8);
   color: white;
-  padding: 10px;
+  padding: 20px 0;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Container principal para as perguntas */
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Pergunta */
+.pregunta {
   font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Estilo das opções de resposta */
+.opcoes {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
 button {
-  padding: 10px;
+  padding: 15px;
   margin: 5px;
   font-size: 16px;
   border: none;
+  border-radius: 5px;
   cursor: pointer;
   width: 100%;
-  max-width: 200px;
+  max-width: 300px;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
 }
 
 button.correto {
@@ -33,29 +69,53 @@ button.errado {
   color: white;
 }
 
-/* Responsividade */
-@media (max-width: 768px) {
-  header {
-      font-size: 16px;
-      padding: 15px;
+/* Animações para as opções */
+button.correto, button.errado {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* Animação de fade in */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
   }
-  
-  button {
-      font-size: 14px;
-      padding: 8px;
+  to {
+      opacity: 1;
+      transform: translateY(0);
   }
 }
 
-/* Em telas menores, como telefones verticais */
+/* Estilo para respostas corretas e erradas */
+button.correto:active, button.errado:active {
+  transform: scale(0.95);
+}
+
+/* Estilos para dispositivos móveis */
+@media (max-width: 768px) {
+  header {
+      font-size: 20px;
+      padding: 15px 0;
+  }
+  .pregunta {
+      font-size: 16px;
+  }
+  button {
+      font-size: 14px;
+  }
+}
+
 @media (max-width: 480px) {
   header {
-      font-size: 14px;
-      padding: 10px;
+      font-size: 18px;
+      padding: 10px 0;
   }
-  
+  .pregunta {
+      font-size: 14px;
+  }
   button {
       font-size: 12px;
-      padding: 6px;
-      width: 90%; /* Torna o botão mais largo para melhor visualização */
+      padding: 12px;
+      width: 90%;
   }
 }
