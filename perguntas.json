@@ -278,6 +278,246 @@
       "correta": 0
     }
   ]
-}
+  ,
+    "MINTRANS": [
+      {
+        "pergunta": "Qual é a principal função do Ministério dos Transportes de Angola?",
+        "opcoes": ["Gerir o sistema educacional", "Supervisionar o transporte marítimo, terrestre e aéreo", "Controlar os serviços bancários", "Fiscalizar atividades agrícolas"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a instituição responsável pelo transporte ferroviário em Angola?",
+        "opcoes": ["TAAG", "CNA", "Caminhos-de-Ferro de Luanda", "ENANA"],
+        "correta": 2
+      },
+      {
+        "pergunta": "A TAAG é uma companhia aérea de qual país?",
+        "opcoes": ["Moçambique", "Angola", "Portugal", "Brasil"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual destes é um porto marítimo importante em Angola?",
+        "opcoes": ["Porto do Namibe", "Porto de Santos", "Porto de Lisboa", "Porto de Maputo"],
+        "correta": 0
+      },
+      {
+        "pergunta": "O Caminho-de-Ferro de Benguela liga Angola a qual país?",
+        "opcoes": ["Namíbia", "Zâmbia", "Congo", "Moçambique"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual dos seguintes meios de transporte é usado para movimentação de carga pesada a longas distâncias?",
+        "opcoes": ["Motocicleta", "Caminhão", "Bicicleta", "Táxi"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual destas instituições é responsável pela aviação civil em Angola?",
+        "opcoes": ["INAVIC", "CFL", "TAAG", "SONANGOL"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual o nome do aeroporto internacional localizado em Luanda?",
+        "opcoes": ["Aeroporto do Lobito", "Aeroporto do Namibe", "Aeroporto Internacional 4 de Fevereiro", "Aeroporto da Huíla"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual o principal objetivo do MINTRANS?",
+        "opcoes": ["Regular o comércio internacional", "Administrar a educação pública", "Planejar e desenvolver políticas de transporte", "Fiscalizar atividades bancárias"],
+        "correta": 2
+      },
+      {
+        "pergunta": "O que significa a sigla TAAG?",
+        "opcoes": ["Transportes Aéreos de Angola", "Tráfego Aéreo de Angola Geral", "Transporte Agrícola Angolano Geral", "Transporte Aéreo da África Geral"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual meio de transporte é mais utilizado para viagens interprovinciais em Angola?",
+        "opcoes": ["Bicicleta", "Autocarro", "Táxi", "Comboio urbano"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a responsabilidade do Instituto Nacional dos Caminhos-de-Ferro de Angola?",
+        "opcoes": ["Gerir escolas técnicas", "Supervisionar o transporte ferroviário", "Administrar o setor de saúde", "Controlar fronteiras"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é o nome do porto marítimo localizado em Luanda?",
+        "opcoes": ["Porto do Lobito", "Porto do Namibe", "Porto de Luanda", "Porto de Cabinda"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual dessas opções é um desafio enfrentado pelo setor de transportes em Angola?",
+        "opcoes": ["Excesso de professores", "Falta de vias pavimentadas", "Alta produtividade agrícola", "Baixo consumo de combustível"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual a finalidade do Caminho-de-Ferro de Moçâmedes?",
+        "opcoes": ["Educação a distância", "Ligação entre províncias do sul de Angola", "Transmissão de energia", "Importação de petróleo"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O que significa ENANA?",
+        "opcoes": ["Empresa Nacional de Navegação Aérea", "Escola Nacional de Aviação", "Estatal Nacional Agrícola", "Empresa Nacional de Ação Naval"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual dessas empresas atua no setor de transporte marítimo?",
+        "opcoes": ["SONANGOL", "TAAG", "CNA", "ENANA"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual destes é um exemplo de transporte público em áreas urbanas?",
+        "opcoes": ["Avião", "Comboio interprovincial", "Táxi coletivo", "Navio cargueiro"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Quem supervisiona a segurança rodoviária em Angola?",
+        "opcoes": ["Ministério da Justiça", "MINTRANS", "Administração Geral Tributária", "Polícia Nacional"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual o nome do novo aeroporto internacional em construção em Angola?",
+        "opcoes": ["Aeroporto do Namibe", "Aeroporto Internacional António Agostinho Neto", "Aeroporto de Benguela", "Aeroporto da ZEE"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é o principal benefício da reabilitação de linhas férreas?",
+        "opcoes": ["Reduzir a carga tributária", "Diminuir a produção industrial", "Melhorar a mobilidade e a economia", "Aumentar o desemprego"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual é a função dos portos em Angola?",
+        "opcoes": ["Hospedar turistas", "Desenvolver tecnologia", "Exportar e importar mercadorias", "Formar motoristas"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Quais meios de transporte são mais comuns em áreas rurais de Angola?",
+        "opcoes": ["Navios", "Helicópteros", "Motorizadas e caminhões", "Aviões"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual é um dos principais objetivos das políticas públicas do MINTRANS?",
+        "opcoes": ["Redução de alunos nas escolas", "Melhoria das vias de comunicação e transporte", "Promoção da pesca", "Reforma administrativa das finanças"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O que se entende por logística no setor de transportes?",
+        "opcoes": ["Movimentação de recursos humanos", "Armazenamento e transporte de mercadorias", "Planejamento educacional", "Uso de combustíveis alternativos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual dos seguintes elementos faz parte da infraestrutura de transportes?",
+        "opcoes": ["Escolas", "Hospitais", "Estradas", "Teatros"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual a importância do transporte ferroviário em Angola?",
+        "opcoes": ["Baixa eficiência", "Alto custo", "Facilidade no transporte de carga e passageiros", "Somente uso militar"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual destes é um problema enfrentado pelos transportes públicos em áreas urbanas?",
+        "opcoes": ["Alta produtividade agrícola", "Congestionamentos", "Baixo número de passageiros", "Pouca demanda por serviços"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual o papel das administrações portuárias?",
+        "opcoes": ["Educar os marinheiros", "Organizar eventos culturais", "Gerir operações de carga e descarga", "Fiscalizar pescadores"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual é a sigla do Instituto Nacional dos Transportes Rodoviários?",
+        "opcoes": ["INTR", "INFOTRAN", "INAVIC", "INATRO"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Quais meios de transporte são mais usados para importação e exportação?",
+        "opcoes": ["Caminhões e motorizadas", "Navios e aviões", "Táxis e autocarros", "Comboios urbanos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual das seguintes províncias é ponto de ligação ferroviária para exportação?",
+        "opcoes": ["Bié", "Namibe", "Huambo", "Zaire"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Quem define as normas técnicas dos transportes em Angola?",
+        "opcoes": ["Parlamento Nacional", "MINTRANS", "TAAG", "Administração Municipal"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Quais os principais tipos de transporte supervisionados pelo MINTRANS?",
+        "opcoes": ["Rodoviário, ferroviário, marítimo e aéreo", "Educacional e judicial", "Hospitalar e agrícola", "Financeiro e administrativo"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual é a utilidade dos terminais rodoviários?",
+        "opcoes": ["Hospedar caminhoneiros", "Promover turismo local", "Organizar embarque e desembarque de passageiros", "Recolher impostos"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual destes fatores impacta negativamente o setor dos transportes?",
+        "opcoes": ["Investimento em infraestrutura", "Formação de técnicos", "Falta de manutenção", "Boa sinalização"],
+        "correta": 2
+      },
+      {
+        "pergunta": "O que representa o transporte multimodal?",
+        "opcoes": ["Uso de apenas um meio de transporte", "Transporte aéreo militar", "Combinação de diferentes meios para uma entrega", "Uso exclusivo de caminhões"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Quem é o atual ministro dos Transportes de Angola?",
+        "opcoes": ["Ricardo de Abreu", "Manuel Nunes Júnior", "João Lourenço", "Pedro Sebastião"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual dos seguintes projetos é estratégico para o setor de transportes?",
+        "opcoes": ["Plano Nacional de Saneamento", "Plano Integrado dos Transportes", "Programa de Vacinação", "Plano de Cultura Nacional"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual a importância dos transportes para a economia nacional?",
+        "opcoes": ["Aumentar gastos públicos", "Gerar congestionamentos", "Facilitar circulação de bens e pessoas", "Reduzir número de escolas"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual a sigla do Caminho-de-Ferro de Luanda?",
+        "opcoes": ["CFL", "CFB", "CNA", "CDL"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual é a capital da província com o Porto do Lobito?",
+        "opcoes": ["Namibe", "Huambo", "Benguela", "Luanda"],
+        "correta": 2
+      },
+      {
+        "pergunta": "O que visa a modernização dos transportes em Angola?",
+        "opcoes": ["Aumentar o número de portagens", "Melhorar a competitividade e eficiência", "Reduzir o comércio internacional", "Fechar fronteiras"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Quais são os principais portos comerciais de Angola?",
+        "opcoes": ["Luanda, Lobito e Namibe", "Huambo, Luena e Cuito", "Sumbe, Menongue e Uíge", "Malanje, Cunene e Zaire"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual destes é um transporte de massa?",
+        "opcoes": ["Táxi motorizado", "Autocarro", "Caminhão de entrega", "Motocicleta particular"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual o órgão responsável pela fiscalização do transporte rodoviário?",
+        "opcoes": ["INTR", "INAVIC", "ENANA", "TAAG"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual destas atividades não pertence ao setor de transportes?",
+        "opcoes": ["Movimentação de mercadorias", "Educação técnica", "Transporte de passageiros", "Gestão de portos"],
+        "correta": 1
+      }
+    ]
+  }
+  
+
 
 
