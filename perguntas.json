@@ -175,5 +175,109 @@
       "opcoes": ["Cursos de capacitação para o mercado de trabalho", "Cursos de línguas estrangeiras", "Ensino de ciências naturais e humanas", "Ensino técnico"],
       "correta": 2
     }
+  ],
+  "MAAN": [
+    {
+      "pergunta": "O Memorial Dr. António Agostinho Neto homenageia:",
+      "opcoes": ["O primeiro Presidente de Angola", "Um herói da resistência sul-africana", "O fundador da UNITA", "O líder do movimento estudantil"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em que cidade está localizado o MAAN?",
+      "opcoes": ["Lubango", "Benguela", "Huambo", "Luanda"],
+      "correta": 3
+    },
+    {
+      "pergunta": "Qual é a função principal do MAAN?",
+      "opcoes": ["Preservar a história de Angola", "Realizar casamentos civis", "Emitir documentos pessoais", "Armazenar obras de arte internacionais"],
+      "correta": 0
+    },
+    {
+      "pergunta": "António Agostinho Neto proclamou a independência de Angola em:",
+      "opcoes": ["1974", "1975", "1976", "1980"],
+      "correta": 1
+    },
+    {
+      "pergunta": "O MAAN é também considerado:",
+      "opcoes": ["Centro turístico e cultural", "Hospital nacional", "Universidade pública", "Museu de artes plásticas"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual destas atividades o MAAN promove?",
+      "opcoes": ["Exposições culturais", "Aulas de informática", "Conferências científicas apenas", "Concursos de culinária"],
+      "correta": 0
+    },
+    {
+      "pergunta": "António Agostinho Neto era também conhecido por ser:",
+      "opcoes": ["Poeta", "Músico", "Engenheiro", "Pintor"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O poema 'Sagrada Esperança' é de autoria de:",
+      "opcoes": ["Pepetela", "Mia Couto", "Agostinho Neto", "Luandino Vieira"],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual dos seguintes elementos faz parte do MAAN?",
+      "opcoes": ["Túmulo simbólico", "Sala de cirurgia", "Biblioteca médica", "Estádio polidesportivo"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O MAAN foi inaugurado em que década?",
+      "opcoes": ["1990", "2000", "2010", "1980"],
+      "correta": 1
+    },
+    {
+      "pergunta": "A arquitetura do MAAN simboliza:",
+      "opcoes": ["Um foguete", "Um tambor tradicional", "Uma lança", "A palma da mão"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é o órgão responsável pela gestão do MAAN?",
+      "opcoes": ["Presidência da República", "MINCULT", "MINJUD", "MINTRANS"],
+      "correta": 1
+    },
+    {
+      "pergunta": "Que eventos ocorrem anualmente no MAAN?",
+      "opcoes": ["Homenagens ao Dia da Independência", "Desfiles de moda", "Conferências de saúde", "Feiras agrícolas"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Agostinho Neto nasceu na província de:",
+      "opcoes": ["Bengo", "Bié", "Namibe", "Kwanza Sul"],
+      "correta": 3
+    },
+    {
+      "pergunta": "O MAAN contém documentos relacionados com:",
+      "opcoes": ["A luta de libertação nacional", "História da medicina", "Arte asiática", "Tecnologias modernas"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é o estilo predominante da arquitetura do MAAN?",
+      "opcoes": ["Futurista", "Colonial", "Romântico", "Barroco"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Quem pode visitar o Memorial Agostinho Neto?",
+      "opcoes": ["Todos os cidadãos", "Somente militares", "Apenas historiadores", "Visitantes estrangeiros somente"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O MAAN é um símbolo de:",
+      "opcoes": ["Identidade nacional", "Poder militar", "Economia angolana", "Cultura africana em geral"],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é a importância do MAAN para os jovens estudantes?",
+      "opcoes": ["Educar sobre a história do país", "Ensinar técnicas de defesa pessoal", "Preparar para exames de matemática", "Formar em gestão de empresas"],
+      "correta": 0
+    },
+    {
+      "pergunta": "O MAAN recebe visitas de:",
+      "opcoes": ["Turistas, estudantes, investigadores", "Somente políticos", "Apenas militares", "Público com autorização especial"],
+      "correta": 0
+    }
   ]
 }
+
+
