@@ -515,7 +515,155 @@
         "opcoes": ["Movimentação de mercadorias", "Educação técnica", "Transporte de passageiros", "Gestão de portos"],
         "correta": 1
       }
+    ],
+    "MINJUD": [
+      {
+        "pergunta": "Qual é a principal função do Ministério da Juventude e Desportos?",
+        "opcoes": ["Gerir a saúde pública", "Coordenar a educação nacional", "Promover políticas para a juventude e o desporto", "Administrar os tribunais"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual destes é um dos programas do MINJUD para jovens empreendedores?",
+        "opcoes": ["ProJovem", "Angola Jovem Empreende", "Mais Educação", "Saúde para Todos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O que é o Plano Nacional da Juventude?",
+        "opcoes": ["Plano de saúde para jovens", "Documento estratégico para políticas juvenis", "Campanha contra as drogas", "Plano de habitação para idosos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é o objetivo do programa Angola Jovem?",
+        "opcoes": ["Apoiar jovens atletas", "Reduzir a taxa de natalidade", "Promover a inclusão digital", "Fomentar o empreendedorismo juvenil"],
+        "correta": 3
+      },
+      {
+        "pergunta": "Que órgão está subordinado ao MINJUD?",
+        "opcoes": ["Federação Angolana de Futebol", "Ministério da Educação", "Administração Geral Tributária", "Ministério da Justiça"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual destas atividades está diretamente ligada ao MINJUD?",
+        "opcoes": ["Criação de políticas monetárias", "Construção de estádios", "Fiscalização de escolas", "Elaboração do Orçamento Geral do Estado"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Quem pode beneficiar-se dos programas de apoio ao empreendedorismo juvenil?",
+        "opcoes": ["Apenas atletas", "Jovens entre 15 e 35 anos", "Somente estudantes universitários", "Crianças até 10 anos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual evento desportivo é promovido com o apoio do MINJUD?",
+        "opcoes": ["Jogos Olímpicos", "Campeonato Nacional de Futebol", "Festival Nacional da Juventude", "Maratona de Nova York"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Em que ano foi criado o MINJUD?",
+        "opcoes": ["2002", "2005", "2009", "2012"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual é uma das competências do MINJUD?",
+        "opcoes": ["Emitir documentos de identidade", "Coordenar políticas juvenis", "Fiscalizar instituições financeiras", "Gerir o sistema penitenciário"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O MINJUD promove programas voltados para:",
+        "opcoes": ["Emprego jovem", "Educação superior", "Atendimento hospitalar", "Reforma agrária"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual destes documentos orienta as políticas do MINJUD?",
+        "opcoes": ["Plano Nacional de Educação", "Plano Nacional de Desenvolvimento Juvenil", "Orçamento da Defesa", "Plano Nacional de Infraestruturas"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é a idade máxima para se beneficiar das políticas do MINJUD?",
+        "opcoes": ["25 anos", "30 anos", "35 anos", "40 anos"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual é a função da Direção Nacional da Juventude?",
+        "opcoes": ["Emitir passaportes", "Coordenar atividades de lazer", "Elaborar políticas para jovens", "Gerir escolas públicas"],
+        "correta": 2
+      },
+      {
+        "pergunta": "A que setor pertence o MINJUD?",
+        "opcoes": ["Setor econômico", "Setor social", "Setor jurídico", "Setor ambiental"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Que tipo de desporto tem recebido maior investimento do MINJUD?",
+        "opcoes": ["Futebol", "Xadrez", "Atletismo", "Ginástica artística"],
+        "correta": 0
+      },
+      {
+        "pergunta": "Qual dos seguintes objetivos é uma meta do MINJUD?",
+        "opcoes": ["Redução da taxa de juros", "Inclusão juvenil", "Aumento de exportações", "Privatização de empresas públicas"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Que política pública está ligada ao MINJUD?",
+        "opcoes": ["Programa de Saúde Familiar", "Crédito Jovem", "Construção de Escolas Rurais", "Sistema Nacional de Ensino"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual é o papel das Casas da Juventude?",
+        "opcoes": ["Abrigar jovens carentes", "Servir como centros de formação e lazer", "Promover concursos públicos", "Distribuir alimentos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual entidade colabora com o MINJUD para promover a prática do desporto escolar?",
+        "opcoes": ["Ministério da Saúde", "Ministério da Educação", "Ministério da Cultura", "Ministério das Finanças"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Que ação está ligada ao fomento da cidadania juvenil?",
+        "opcoes": ["Campanhas de vacinação", "Ensino de idiomas", "Educação cívica e ética", "Cursos de informática"],
+        "correta": 2
+      },
+      {
+        "pergunta": "Qual destes eventos é organizado pelo MINJUD?",
+        "opcoes": ["Festival da Música Popular", "Encontro Nacional da Juventude", "Feira da Agricultura", "Fórum Empresarial Internacional"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Quem lidera o MINJUD?",
+        "opcoes": ["Governador provincial", "Ministro da Juventude e Desportos", "Presidente da República", "Secretário de Estado do Ensino Superior"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Quais são os principais beneficiários do Plano Nacional da Juventude?",
+        "opcoes": ["Empresários", "Jovens entre 15 e 35 anos", "Professores", "Crianças até 12 anos"],
+        "correta": 1
+      },
+      {
+        "pergunta": "A Lei da Juventude estabelece os direitos e deveres de:",
+        "opcoes": ["Jovens angolanos", "Funcionários públicos", "Militares", "Cidadãos estrangeiros"],
+        "correta": 0
+      },
+      {
+        "pergunta": "O que é a CNJ em Angola?",
+        "opcoes": ["Código Nacional de Justiça", "Conselho Nacional da Juventude", "Cadastro Nacional de Jovens", "Comissão Nacional de Jornalistas"],
+        "correta": 1
+      },
+      {
+        "pergunta": "Qual a missão do Instituto Angolano da Juventude?",
+        "opcoes": ["Regular o ensino secundário", "Executar políticas públicas para jovens", "Emitir carteiras profissionais", "Gerir hospitais juvenis"],
+        "correta": 1
+      },
+      {
+        "pergunta": "A Semana da Juventude é comemorada em que mês?",
+        "opcoes": ["Junho", "Agosto", "Julho", "Outubro"],
+        "correta": 1
+      },
+      {
+        "pergunta": "O Prémio Nacional da Juventude destina-se a reconhecer:",
+        "opcoes": ["Desportistas", "Estudantes estrangeiros", "Jovens com iniciativas relevantes", "Funcionários públicos"],
+        "correta": 2
+      }
     ]
+    
   }
   
 
