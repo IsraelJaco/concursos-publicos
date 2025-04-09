@@ -1,30 +1,61 @@
 body {
-    font-family: sans-serif;
-    text-align: center;
-    background-color: #f9f9f9;
-  }
-  
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+  font-size: 18px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  max-width: 200px;
+}
+
+button.correto {
+  background-color: #4CAF50;
+  color: white;
+}
+
+button.errado {
+  background-color: #f44336;
+  color: white;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
   header {
-    background-color: #222;
-    color: white;
-    padding: 10px;
+      font-size: 16px;
+      padding: 15px;
   }
   
   button {
-    padding: 10px;
-    margin: 5px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
+      font-size: 14px;
+      padding: 8px;
+  }
+}
+
+/* Em telas menores, como telefones verticais */
+@media (max-width: 480px) {
+  header {
+      font-size: 14px;
+      padding: 10px;
   }
   
-  button.correto {
-    background-color: #4CAF50;
-    color: white;
+  button {
+      font-size: 12px;
+      padding: 6px;
+      width: 90%; /* Torna o botão mais largo para melhor visualização */
   }
-  
-  button.errado {
-    background-color: #f44336;
-    color: white;
-  }
-  
+}
